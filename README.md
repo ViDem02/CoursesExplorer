@@ -17,6 +17,10 @@ To have the starting `data.json` file, go to https://unitn.coursecatalogue.cinec
 
 Convert the XSLS in JSON, via a tool online. Then you have data.json. 
 
+```bash
+python3 script.py
+```
+
 In the file `specific.txt`, write the exact names of the courses your interested in. If the file is empty, all the courses in data.json will be scraped. 
 
 Data will be gathered in `unitn_data_specific`, and then at the end a file will be created with all scraped data: a JSON and CSV file will be created. 
