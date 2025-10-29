@@ -1,4 +1,4 @@
-# UNITN Courses Explorer
+# UNITN Courses Explorer
 
 # ALERT
 
